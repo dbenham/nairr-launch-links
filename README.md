@@ -14,5 +14,7 @@ Select the compute profile that matches your needs:
 - [A100 MIG 2g.10gb (10GB VRAM), 16 CPUs, 32GB RAM, 2/7 A100](https://binderhub.nairrpilot.org/v2/gh/dbenham/jupyter-load-test/HEAD?profile=gpu-medium)
 - [A100 MIG 3g.20gb (20GB VRAM), 24 CPUs, 64GB RAM, 3/7 A100](https://binderhub.nairrpilot.org/v2/gh/dbenham/jupyter-load-test/HEAD?profile=gpu-large)
 
+### Jupyter hub
+- [Jupyter hub admin](https://jupyterhub.nairrpilot.org/hub/admin)
 
 note: all notebooks require nairrpilot jwt cookie
